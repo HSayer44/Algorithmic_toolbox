@@ -1,1 +1,4 @@
 # Algorithmic_toolbox
+Algorithmic techniques and ideas for computational problems arising frequently in practical applications: sorting and searching, divide and conquer, greedy algorithms, dynamic programming. There are a lot of theory: how to sort data and how it helps for searching; how to break a large problem into pieces and solve them recursively; when it makes sense to proceed greedily; how dynamic programming is used in genomic studies. You will practice solving computational problems, designing new algorithms, and implementing solutions efficiently (so that they run in less than a second).
+
+I’ve uploaded these solutions here, only for being used as a help by those who get stuck somewhere. It may help them to save some time. I strongly recommend everyone to not directly copy any part of the code (from here or anywhere else)
